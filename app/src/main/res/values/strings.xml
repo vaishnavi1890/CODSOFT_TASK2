@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WindowNotification</string>
+    <string name="notification_activity">NotificationView</string>
+</resources>
